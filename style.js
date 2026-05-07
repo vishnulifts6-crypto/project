@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       emailjs.sendForm(
         "service_jvpqzb6",   // <-- change this
-        "template_o293o5n",  // <-- change this
+        "template_g2fsb9s",  // <-- change this
         this
       )
       .then(function () {
